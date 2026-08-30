@@ -1,0 +1,6 @@
+*.bak.*
+claude.sh
+__pycache__/
+*.pyc
+.DS_Store
+*.part
